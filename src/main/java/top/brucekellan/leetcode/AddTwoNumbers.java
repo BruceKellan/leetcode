@@ -5,7 +5,10 @@ import com.google.common.collect.Lists;
 import java.util.List;
 
 /**
- * You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+ * 2. Add Two Numbers
+ * You are given two non-empty linked lists representing two non-negative integers.
+ * The digits are stored in reverse order and each of their nodes contain a single digit.
+ * Add the two numbers and return it as a linked list.
  * You may assume the two numbers do not contain any leading zero, except the number 0 itself.
  */
 public class AddTwoNumbers {
@@ -14,7 +17,6 @@ public class AddTwoNumbers {
         ListNode l1 = new ListNode(6);
         l1.next = new ListNode(4);
         l1.next.next = new ListNode(3);
-
 
         ListNode l2 = new ListNode(5);
         l2.next = new ListNode(6);
@@ -34,7 +36,6 @@ public class AddTwoNumbers {
 
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int count = 0;
         ListNode current = new ListNode(0);
         ListNode res = current;
         int bit = 0;
@@ -60,7 +61,6 @@ public class AddTwoNumbers {
     public static class ListNode {
         int val;
         ListNode next;
-
         ListNode(int x) {
             val = x;
         }
