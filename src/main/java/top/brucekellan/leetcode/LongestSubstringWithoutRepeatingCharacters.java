@@ -4,8 +4,13 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * 3. Longest Substring Without Repeating Characters
  * Given a string, find the length of the longest substring without repeating characters.
- *
+ * e.g
+ * Given "abcabcbb", the answer is "abc", which the length is 3.
+ * Given "bbbbb", the answer is "b", with the length of 1.
+ * Given "pwwkew", the answer is "wke", with the length of 3.
+ * Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
  * @author MR
  * @create 2017/12/6
  */
@@ -17,44 +22,6 @@ public class LongestSubstringWithoutRepeatingCharacters {
         System.out.println(new LongestSubstringWithoutRepeatingCharacters().lengthOfLongestSubstring("pwwkew"));
         System.out.println(new LongestSubstringWithoutRepeatingCharacters().lengthOfLongestSubstring("dvdf"));
     }
-
-//
-//    public int lengthOfLongestSubstring(String s) {
-//        if(s.length() == 1) {
-//            return 1;
-//        }
-//        int max = 0;
-//        for (int i = 0; i < s.length() - 1; i++) {
-//            int length = 1;
-//            boolean isHave = true;
-//            StringBuilder stringBuilder = new StringBuilder().append(s.charAt(i));
-//            for (int j = i + 1; j < s.length(); j++) {
-//                char c = s.charAt(j);
-//                isHave = checkisHave(stringBuilder, c);
-//                if (isHave) {
-//                    break;
-//                } else {
-//                    length++;
-//                    stringBuilder.append(c);
-//                }
-//            }
-//            if (length > max) {
-//                max = length;
-//            }
-//        }
-//        return max;
-//    }
-
-//
-//    private boolean checkisHave(StringBuilder stringBuilder, char c) {
-//        for (int i = 0; i < stringBuilder.length(); i++) {
-//            if (stringBuilder.charAt(i) == c) {
-//                return true;
-//            }
-//        }
-//        return false;
-//    }
-
 
     public int lengthOfLongestSubstring(String s) {
         Set<Character> characters = new HashSet<Character>();
