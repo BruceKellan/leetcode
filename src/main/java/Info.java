@@ -12,6 +12,9 @@
  * 4. Median of Two Sorted Arrays
  * @see top.brucekellan.leetcode.MedianOfTwoSortedArrays
  *
+ * 22. Generate Parentheses
+ * @see top.brucekellan.leetcode.GenerateParentheses
+ *
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
