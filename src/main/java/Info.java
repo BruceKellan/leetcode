@@ -20,7 +20,7 @@ import top.brucekellan.leetcode.*;
  * @see GenerateParentheses
  *
  * 23. Merge k Sorted Lists
- *
+ * @see MergeKSortedLists
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
