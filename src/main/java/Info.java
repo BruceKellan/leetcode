@@ -1,19 +1,25 @@
+import top.brucekellan.leetcode.*;
 
 /**
  * 1. Two Sum
- * @see top.brucekellan.leetcode.TwoSum
+ * @see TwoSum
  *
  * 2. Add Two Numbers
- * @see top.brucekellan.leetcode.AddTwoNumbers
+ * @see AddTwoNumbers
  *
  * 3. Longest Substring Without Repeating Characters
- * @see top.brucekellan.leetcode.LongestSubstringWithoutRepeatingCharacters
+ * @see LongestSubstringWithoutRepeatingCharacters
  *
  * 4. Median of Two Sorted Arrays
- * @see top.brucekellan.leetcode.MedianOfTwoSortedArrays
+ * @see MedianOfTwoSortedArrays
+ *
+ * 5. Longest Palindromic Substring
+ * @see LongestPalindromicSubstring
  *
  * 22. Generate Parentheses
- * @see top.brucekellan.leetcode.GenerateParentheses
+ * @see GenerateParentheses
+ *
+ * 23. Merge k Sorted Lists
  *
  * @Author: brucekellan
  * @Date: 2018/7/9
