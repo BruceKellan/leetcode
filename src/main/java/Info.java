@@ -21,6 +21,9 @@ import top.brucekellan.leetcode.*;
  *
  * 23. Merge k Sorted Lists
  * @see MergeKSortedLists
+ *
+ * 24. Swap Nodes in Pairs
+ * @see SwapNodesInPairs
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
