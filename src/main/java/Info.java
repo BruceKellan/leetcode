@@ -16,6 +16,9 @@ import top.brucekellan.leetcode.*;
  * 5. Longest Palindromic Substring
  * @see LongestPalindromicSubstring
  *
+ * 6. ZigZag Conversion
+ * @see ZigZagConversion
+ *
  * 22. Generate Parentheses
  * @see GenerateParentheses
  *
@@ -24,6 +27,10 @@ import top.brucekellan.leetcode.*;
  *
  * 24. Swap Nodes in Pairs
  * @see SwapNodesInPairs
+ *
+ * 26. Remove Duplicates from Sorted Array
+ * @see RemoveDuplicatesFromSortedArray
+ *
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
