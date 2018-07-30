@@ -31,6 +31,8 @@ import top.brucekellan.leetcode.*;
  * 26. Remove Duplicates from Sorted Array
  * @see RemoveDuplicatesFromSortedArray
  *
+ * 27. Remove Element
+ * @see RemoveElement
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
