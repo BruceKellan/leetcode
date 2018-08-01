@@ -33,6 +33,10 @@ import top.brucekellan.leetcode.*;
  *
  * 27. Remove Element
  * @see RemoveElement
+ *
+ * 28. Implement strStr()
+ * @see ImplementStrStr
+ *
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
