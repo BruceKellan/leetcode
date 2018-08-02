@@ -37,6 +37,9 @@ import top.brucekellan.leetcode.*;
  * 28. Implement strStr()
  * @see ImplementStrStr
  *
+ * 29. Divide Two Integers
+ * @see DivideTwoIntegers
+ *
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
