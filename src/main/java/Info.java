@@ -40,6 +40,9 @@ import top.brucekellan.leetcode.*;
  * 29. Divide Two Integers
  * @see DivideTwoIntegers
  *
+ * 35. Search Insert Position
+ * @see SearchInsertPosition
+ *
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
