@@ -19,6 +19,9 @@ import top.brucekellan.leetcode.*;
  * 6. ZigZag Conversion
  * @see ZigZagConversion
  *
+ * 7. Reverse Integer
+ * @see ReverseInteger
+ *
  * 22. Generate Parentheses
  * @see GenerateParentheses
  *
@@ -40,10 +43,14 @@ import top.brucekellan.leetcode.*;
  * 29. Divide Two Integers
  * @see DivideTwoIntegers
  *
+ * 31. Next Permutation
+ * @see NextPermutation
+ *
  * 35. Search Insert Position
  * @see SearchInsertPosition
  *
  * 38. Count and Say
+ * @see CountAndSay
  *
  * @Author: brucekellan
  * @Date: 2018/7/9
