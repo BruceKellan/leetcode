@@ -22,6 +22,9 @@ import top.brucekellan.leetcode.*;
  * 7. Reverse Integer
  * @see ReverseInteger
  *
+ * 8. String to Integer (atoi)
+ * @see String2Integer
+ *
  * 22. Generate Parentheses
  * @see GenerateParentheses
  *
@@ -45,6 +48,9 @@ import top.brucekellan.leetcode.*;
  *
  * 31. Next Permutation
  * @see NextPermutation
+ *
+ * 33. Search in Rotated Sorted Array
+ * @see SearchInRotatedSortedArray
  *
  * 35. Search Insert Position
  * @see SearchInsertPosition
