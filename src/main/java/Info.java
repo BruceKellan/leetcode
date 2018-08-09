@@ -58,6 +58,9 @@ import top.brucekellan.leetcode.*;
  * 38. Count and Say
  * @see CountAndSay
  *
+ * 53. Maximum Subarray
+ * @see MaximumSubarray
+ *
  * @Author: brucekellan
  * @Date: 2018/7/9
  */
