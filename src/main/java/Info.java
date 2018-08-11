@@ -25,6 +25,12 @@ import top.brucekellan.leetcode.*;
  * 8. String to Integer (atoi)
  * @see String2Integer
  *
+ * 9. Palindrome Number
+ * @see PalindromeNumber
+ *
+ * 10. Regular Expression Matching
+ * @see RegularExpressionMatching
+ *
  * 22. Generate Parentheses
  * @see GenerateParentheses
  *
