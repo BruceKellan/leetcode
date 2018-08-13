@@ -40,6 +40,9 @@ import top.brucekellan.leetcode.*;
  * 24. Swap Nodes in Pairs
  * @see SwapNodesInPairs
  *
+ * 25. Reverse Nodes in k-Group
+ * @see ReverseNodesInKGroup
+ *
  * 26. Remove Duplicates from Sorted Array
  * @see RemoveDuplicatesFromSortedArray
  *
@@ -66,9 +69,6 @@ import top.brucekellan.leetcode.*;
  *
  * 53. Maximum Subarray
  * @see MaximumSubarray
- *
- * 25. Reverse Nodes in k-Group
- * @see ReverseNodesInKGroup
  *
  * @Author: brucekellan
  * @Date: 2018/7/9
