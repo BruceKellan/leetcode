@@ -55,6 +55,9 @@ import top.brucekellan.leetcode.*;
  * 29. Divide Two Integers
  * @see DivideTwoIntegers
  *
+ * 30. Substring with Concatenation of All Words
+ * @see SubstringWithConcatenationOfAllWords
+ *
  * 31. Next Permutation
  * @see NextPermutation
  *
