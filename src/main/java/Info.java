@@ -70,6 +70,9 @@ import top.brucekellan.leetcode.*;
  * 38. Count and Say
  * @see CountAndSay
  *
+ * 39. Combination Sum
+ * @see CombinationSum
+ *
  * 53. Maximum Subarray
  * @see MaximumSubarray
  *
