@@ -61,6 +61,9 @@ import top.brucekellan.leetcode.*;
  * 31. Next Permutation
  * @see NextPermutation
  *
+ * 32. Longest Valid Parentheses
+ * @see LongestValidParentheses
+ *
  * 33. Search in Rotated Sorted Array
  * @see SearchInRotatedSortedArray
  *
