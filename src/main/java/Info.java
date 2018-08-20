@@ -67,6 +67,9 @@ import top.brucekellan.leetcode.*;
  * 33. Search in Rotated Sorted Array
  * @see SearchInRotatedSortedArray
  *
+ * 34. Find First and Last Position of Element in Sorted Array
+ * @see FindFirstAndLastPositionOfElementInSortedArray
+ *
  * 35. Search Insert Position
  * @see SearchInsertPosition
  *
