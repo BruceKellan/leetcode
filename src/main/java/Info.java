@@ -73,6 +73,9 @@ import top.brucekellan.leetcode.*;
  * 35. Search Insert Position
  * @see SearchInsertPosition
  *
+ * 36. Valid Sudoku
+ * @see ValidSudoku
+ *
  * 38. Count and Say
  * @see CountAndSay
  *
