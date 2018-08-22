@@ -82,6 +82,9 @@ import top.brucekellan.leetcode.*;
  * 39. Combination Sum
  * @see CombinationSum
  *
+ * 41. First Missing Positive
+ * @see FirstMissingPositive
+ *
  * 53. Maximum Subarray
  * @see MaximumSubarray
  *
