@@ -88,6 +88,9 @@ import top.brucekellan.leetcode.*;
  * 43. Multiply Strings
  * @see MultiplyStrings
  *
+ * 46. Permutations
+ * @see Permutations
+ *
  * 53. Maximum Subarray
  * @see MaximumSubarray
  *
