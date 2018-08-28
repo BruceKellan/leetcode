@@ -91,6 +91,9 @@ import top.brucekellan.leetcode.*;
  * 46. Permutations
  * @see Permutations
  *
+ * 47. Permutations II
+ * @see PermutationsII
+ *
  * 53. Maximum Subarray
  * @see MaximumSubarray
  *
