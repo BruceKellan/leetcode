@@ -94,6 +94,9 @@ import top.brucekellan.leetcode.*;
  * 47. Permutations II
  * @see PermutationsII
  *
+ * 48. Rotate Image
+ * @see RotateImage
+ *
  * 53. Maximum Subarray
  * @see MaximumSubarray
  *
