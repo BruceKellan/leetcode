@@ -100,8 +100,12 @@ import top.brucekellan.leetcode.*;
  * 49. Group Anagrams
  * @see GroupAnagrams
  *
+ * 50. Pow(x, n)
+ * @see Powxn
+ *
  * 53. Maximum Subarray
  * @see MaximumSubarray
+ *
  *
  * @Author: brucekellan
  * @Date: 2018/7/9
