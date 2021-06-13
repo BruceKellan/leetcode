@@ -1,6 +1,26 @@
 import top.brucekellan.leetcode.*;
 
 /**
+ *
+ * 基础部分：
+ * 1. 冒泡排序
+ * @see top.brucekellan.base.BubbleSort
+ *
+ * 2. 插入排序
+ * @see top.brucekellan.base.InsertionSort
+ *
+ * 3. 选择排序
+ * @see top.brucekellan.base.SelectionSort
+ *
+ * 4. 归并排序
+ * @see top.brucekellan.base.MergeSort
+ *
+ * 5. 快速排序
+ * @see top.brucekellan.base.QuickSort
+ *
+ * 6. 希尔排序
+ * @see top.brucekellan.base.ShellSort
+ *
  * 1. Two Sum
  * @see TwoSum
  *
